@@ -1,0 +1,23 @@
+# 仮想環境フォルダ
+myenv/
+
+# Pythonのキャッシュファイル
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook のチェックポイント（不要なら）
+.ipynb_checkpoints/
+
+# データ
+data/
+*.csv
+*.tsv
+*.zip
+*.pkl
+
+# ログファイル
+*.log
+
+# 環境設定ファイル（VS Codeユーザー向け）
+.vscode/
